@@ -1,0 +1,1 @@
+console.log('Criei um script para a Take Blip');
